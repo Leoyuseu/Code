@@ -11,8 +11,11 @@ int func(int x){
     return count;
 }
 
+
+
 int main() {
 	int i;
 	cin >> i;
 	cout << func(i);
+	//test
 }
