@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 # file: wxPythonButtonEvent.py
-#
+
+#s`
 import wx											# 导入wxPython
 class MyApp(wx.App):										# 通过继承创建类
 	def OnInit(self):									# 重载OnInit方法
